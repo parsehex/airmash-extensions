@@ -1,76 +1,84 @@
-# AirMash SWAM Extensions
+# AirMash Extensions
 
-My [AirMash](https://airma.sh) extensions for [SWAM](https://github.com/Molesmalo/StarWarsMod4AirMash).
+These are my (and others') extensions/mods for the game [AirMash](https://airmash.rocks/). It's a fork of [Fabio Spampinato](https://github.com/fabiospampinato)'s [airmash-swam-extensions](https://github.com/fabiospampinato/airmash-swam-extensions) - please see that repository for the original code.
+
+I don't really use StarMash so I've rewritten some extensions as well as made my own mods for the game using [userscripts](https://en.wikipedia.org/wiki/Userscript). To install these scripts, I recommend using [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/).
 
 ## Extensions
 
-### Enemy Prowlers Alert
+<!-- ### Enemy Prowlers Alert
 
 Shows an alert when + how many there are prowlers on the enemies team (or if there are any prowlers at all in FFA). Useful for helicopters which do not have prowler radar to better inform.
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/respawn-hotkey.js`
+Install URL: `https://parsehex.github.io/airmash-extensions/extensions/prowlers.js` -->
 
 ### Respawn Hotkey
 
-Adds a hotkey (Shift-Y) that's the equivalent of clicking on the ship you're using in the UI.
+![Respawn hotkey](./quick-respawn.png)
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/prowlers.js`
+Adds hotkeys to make respawning faster. Press `Shift` + `1`, `2`, `3`, `4`, or `5` to respawn as the corresponding ships in the left corner.
+
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/respawn-hotkey.js`
+
+[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/respawn-hotkey.user.js)
 
 ### Shield Timer
 
-Forked from [Detect's shield timer](https://github.com/Detect/swam_extensions#shield-timer-for-ctf-v15) and changed so that is shows for your own as well as enemy base.
+Forked from [Detect's shield timer](https://github.com/Detect/swam_extensions#shield-timer-for-ctf-v15) and changed so that it shows for your own as well as enemy base.
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/shield-timer.js`
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/shield-timer.js`
 
 ### Flag Borders
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/flag_borders.js`
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/flag_borders.js`
 
 Show borders around your window whenever a flag is being carried.
 
-![Flag Borders](https://parsehex.github.io/airmash-swam-extensions/resources/flag_borders.png)
+![Flag Borders](https://parsehex.github.io/airmash-extensions/resources/flag_borders.png)
 
 ### Laser Pointer
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/laser_pointer.js`
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/laser_pointer.js`
 
-Add a laser pointer to your spaceship!
+[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/laser_pointer.user.js)
 
-Usage: use `p` for toggling the laser.
+Add a laser pointer to your aircraft or spaceship!
 
-![Laser Pointer](https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/resources/laser_pointer.gif)
+Usage: press `p` to toggle the laser.
 
-### Minimap Cycle
+![Laser Pointer](https://parsehex.github.io/airmash-extensions/resources/laser_pointer.gif)
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/minimap_cycle.js`
+<!-- ### Minimap Cycle
+
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/minimap_cycle.js`
 
 Cycle between different minimap sizes.
 
 Usage: use `n` to cycle between 1x, 2x, and hidden,
 
-![Minimap Cycle](https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/resources/minimap_cycle.gif)
+![Minimap Cycle](https://parsehex.github.io/airmash-extensions/resources/minimap_cycle.gif) -->
 
-### No BTR Win
+<!-- ### No BTR Win
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/no_btr_win.js`
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/no_btr_win.js`
 
-Hide the BTR win dialog.
+Hide the BTR win dialog. -->
 
-### No CTF Win
+<!-- ### No CTF Win
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/no_ctf_win.js`
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/no_ctf_win.js`
 
-Hide the CTF win dialog.
+Hide the CTF win dialog. -->
 
-### No Level Up
+<!-- ### No Level Up
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/no_level_up.js`
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/no_level_up.js`
 
-Hide the level up dialog.
+Hide the level up dialog. -->
 
-### Toggle Elements
+<!-- ### Toggle Elements
 
-Install URL: `https://parsehex.github.io/airmash-swam-extensions/extensions/toggle_elements.js`
+STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/toggle_elements.js`
 
 Toggle elements of the UI with a few keypresses.
 
@@ -81,18 +89,13 @@ Usage:
 - use `8` for toggling the leaderboard
 - use `9` for toggling the minimap
 
-![Clean](https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/resources/clean.png)
+![Clean](https://parsehex.github.io/airmash-extensions/resources/clean.png) -->
 
-## Themes
+## Other stuff
 
-### Hit Circles
-
-Install URL: `https://parsehex.github.io/airmash-swam-extensions//themes/hit_circles/index.js`
-
-A theme that replaces all images with their actual hit circles.
-
-![Hit Circles](https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/resources/hit_circles.gif)
+- [SWAM without SWAM](./swam-compat.md) - Page I'm writing as I figure out how to convert Starmash extensions to work on vanilla AIRMASH.
 
 ## License
 
+MIT © parsehex
 MIT © Fabio Spampinato

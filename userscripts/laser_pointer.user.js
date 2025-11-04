@@ -2,10 +2,10 @@
 // @name         AIRMASH: Laser Pointer
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        https://airmash.online/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=airmash.online
+// @description  Enable laser pointer on AIRMASH by pressing P
+// @author       parsehex
+// @match        https://airmash.rocks/
+// @match        http://localhost:3501/
 // @grant        none
 // ==/UserScript==
 
