@@ -118,4 +118,5 @@ Usage:
 ## License
 
 MIT © parsehex
+
 MIT © Fabio Spampinato

@@ -1,14 +1,16 @@
 {
   "private": true,
-  "name": "airmash-swam-extensions",
-  "description": "My AirMash extensions for SWAM.",
+  "name": "airmash-extensions",
+  "description": "Some extensions for AirMash.",
   "version": "1.0.0",
   "scripts": {
-    "serve": "http-server -p 4444 --cors -c-1"
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
   },
-  "author": "Fabio Spampinato",
+  "author": "parsehex, Fabio Spampinato",
   "license": "MIT",
-  "dependencies": {
-    "http-server": "^0.11.1"
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.12"
   }
 }
