@@ -18,7 +18,13 @@ Install URL: `https://parsehex.github.io/airmash-extensions/extensions/prowlers.
 
 Adds hotkeys to make respawning faster. Press `Shift` + `1`, `2`, `3`, `4`, or `5` to respawn as the corresponding ships in the left corner.
 
-STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/respawn-hotkey.js`
+STARMASH Install URL:
+
+```text
+https://parsehex.github.io/airmash-extensions/extensions/respawn-hotkey.js
+```
+
+or
 
 [Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/respawn-hotkey.user.js)
 
@@ -26,27 +32,41 @@ STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/
 
 Forked from [Detect's shield timer](https://github.com/Detect/swam_extensions#shield-timer-for-ctf-v15) and changed so that it shows for your own as well as enemy base.
 
-STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/shield-timer.js`
+STARMASH Install URL:
+
+```text
+https://parsehex.github.io/airmash-extensions/extensions/shield-timer.js
+```
 
 ### Flag Borders
 
-STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/flag_borders.js`
+![Flag Borders](https://parsehex.github.io/airmash-extensions/resources/flag_borders.png)
 
 Show borders around your window whenever a flag is being carried.
 
-![Flag Borders](https://parsehex.github.io/airmash-extensions/resources/flag_borders.png)
+STARMASH Install URL:
+
+```text
+https://parsehex.github.io/airmash-extensions/extensions/flag_borders.js
+```
 
 ### Laser Pointer
 
-STARMASH Install URL: `https://parsehex.github.io/airmash-extensions/extensions/laser_pointer.js`
-
-[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/laser_pointer.user.js)
+![Laser Pointer](https://parsehex.github.io/airmash-extensions/resources/laser_pointer.gif)
 
 Add a laser pointer to your aircraft or spaceship!
 
 Usage: press `p` to toggle the laser.
 
-![Laser Pointer](https://parsehex.github.io/airmash-extensions/resources/laser_pointer.gif)
+STARMASH Install URL:
+
+```text
+https://parsehex.github.io/airmash-extensions/extensions/laser_pointer.js
+```
+
+or
+
+[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/laser_pointer.user.js)
 
 <!-- ### Minimap Cycle
 
