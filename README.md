@@ -14,7 +14,7 @@ Install URL: `https://parsehex.github.io/airmash-extensions/extensions/prowlers.
 
 ### Respawn Hotkey
 
-![Respawn hotkey](./quick-respawn.png)
+![Respawn hotkey](./resources/quick-respawn.png)
 
 Adds hotkeys to make respawning faster. Press `Shift` + `1`, `2`, `3`, `4`, or `5` to respawn as the corresponding ships in the left corner.
 
