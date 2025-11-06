@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Enable laser pointer on AIRMASH by pressing P
-// @author       parsehex
+// @author       parsehex, original: Fabio Spampinato
 // @match        https://airmash.rocks/
 // @match        http://localhost:3501/
 // @grant        none

@@ -114,9 +114,14 @@ Usage:
 ## Other stuff
 
 - [SWAM without SWAM](./swam-compat.md) - Page I'm writing as I figure out how to convert Starmash extensions to work on vanilla AIRMASH.
+- [parsehex/airmash](https://github.com/parsehex/airmash) - Info about me & Airmash, other things I make for / with the game.
 
 ## License
 
+The content _within this repository_ is licensed under the [MIT License](./LICENSE). That is to say that the game Airmash itself is **not** under any license.
+
 MIT © parsehex
+
+MIT © Detect
 
 MIT © Fabio Spampinato
