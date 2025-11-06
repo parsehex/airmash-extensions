@@ -126,7 +126,7 @@ Usage:
 
 ## License
 
-The content _within this repository_ is licensed under the [MIT License](./LICENSE). That is to say that the game Airmash itself is **not** under any license.
+The content _within this repository_ is licensed under the [MIT License](./LICENSE.md). That is to say that the game Airmash itself is **not** under any license.
 
 MIT © parsehex
 
