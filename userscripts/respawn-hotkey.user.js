@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AIRMASH: Respawn Hotkey
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    http://parsehex.github.io/
+// @version      1.0
 // @description  Adds quick-respawn hotkeys for AIRMASH. Press Shift+(1 thru 5)
 // @author       parsehex
 // @match        https://airmash.rocks/

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AIRMASH: Laser Pointer
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    http://parsehex.github.io/
+// @version      1.0
 // @description  Enable laser pointer on AIRMASH by pressing P
 // @author       parsehex, original: Fabio Spampinato
 // @match        https://airmash.rocks/

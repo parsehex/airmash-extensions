@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AIRMASH: Prowler Radar Fix
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    http://parsehex.github.io/
+// @version      1.0
 // @description  Prowler Radar for each aircraft type on AIRMASH.
 // @author       parsehex, original: wight
 // @match        https://airmash.rocks/
@@ -97,7 +97,7 @@
 			delete radars[radarId];
 		}
 	}
-	
+
 	const oldPlayers = {
 		changeType: Players.changeType,
 		kill: Players.kill,
