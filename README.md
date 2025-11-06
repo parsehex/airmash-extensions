@@ -2,7 +2,11 @@
 
 These are my (and others') extensions/mods for the game [AirMash](https://airmash.rocks/). It's a fork of [Fabio Spampinato](https://github.com/fabiospampinato)'s [airmash-swam-extensions](https://github.com/fabiospampinato/airmash-swam-extensions) - please see that repository for the original code.
 
-I don't really use StarMash so I've rewritten some extensions as well as made my own mods for the game using [userscripts](https://en.wikipedia.org/wiki/Userscript). To install these scripts, I recommend using [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/).
+I don't really use StarMash so I've rewritten some extensions as well as made my own mods for the game using [userscripts](https://en.wikipedia.org/wiki/Userscript).
+
+## Installing Userscripts
+
+You can install userscripts using a [browser extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions). I recommend using [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/).
 
 ## Extensions
 
@@ -26,17 +30,7 @@ https://parsehex.github.io/airmash-extensions/extensions/respawn-hotkey.js
 
 or
 
-[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/respawn-hotkey.user.js)
-
-### Shield Timer
-
-Forked from [Detect's shield timer](https://github.com/Detect/swam_extensions#shield-timer-for-ctf-v15) and changed so that it shows for your own as well as enemy base.
-
-STARMASH Install URL:
-
-```text
-https://parsehex.github.io/airmash-extensions/extensions/shield-timer.js
-```
+[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/respawn-hotkey.user.js) - [[help](#installing-userscripts)]
 
 ### Flag Borders
 
@@ -49,6 +43,10 @@ STARMASH Install URL:
 ```text
 https://parsehex.github.io/airmash-extensions/extensions/flag_borders.js
 ```
+
+or
+
+[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/flag_borders.user.js) - [[help](#installing-userscripts)]
 
 ### Laser Pointer
 
@@ -66,7 +64,17 @@ https://parsehex.github.io/airmash-extensions/extensions/laser_pointer.js
 
 or
 
-[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/laser_pointer.user.js)
+[Install the userscript](https://parsehex.github.io/airmash-extensions/userscripts/laser_pointer.user.js) - [[help](#installing-userscripts)]
+
+### Shield Timer
+
+Forked from [Detect's shield timer](https://github.com/Detect/swam_extensions#shield-timer-for-ctf-v15) and changed so that it shows for your own as well as enemy base.
+
+STARMASH Install URL:
+
+```text
+https://parsehex.github.io/airmash-extensions/extensions/shield-timer.js
+```
 
 <!-- ### Minimap Cycle
 
