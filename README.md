@@ -1,4 +1,4 @@
-# AirMash Extensions
+# [AirMash Extensions](https://parsehex.github.io/airmash-extensions/)
 
 These are my (and others') extensions/mods for the game [AirMash](https://airmash.rocks/). It's a fork of [Fabio Spampinato](https://github.com/fabiospampinato)'s [airmash-swam-extensions](https://github.com/fabiospampinato/airmash-swam-extensions) - please see that repository for the original code.
 
