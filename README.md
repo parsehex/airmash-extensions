@@ -34,7 +34,7 @@ or
 
 ### Flag Borders
 
-![Flag Borders](https://parsehex.github.io/airmash-extensions/resources/flag_borders.png)
+![Flag Borders](./resources/flag_borders.png)
 
 Show borders around your window whenever a flag is being carried.
 
@@ -50,7 +50,7 @@ or
 
 ### Laser Pointer
 
-![Laser Pointer](https://parsehex.github.io/airmash-extensions/resources/laser_pointer.gif)
+![Laser Pointer](./resources/laser_pointer.gif)
 
 Add a laser pointer to your aircraft or spaceship!
 
@@ -84,7 +84,7 @@ Cycle between different minimap sizes.
 
 Usage: use `n` to cycle between 1x, 2x, and hidden,
 
-![Minimap Cycle](https://parsehex.github.io/airmash-extensions/resources/minimap_cycle.gif) -->
+![Minimap Cycle](./resources/minimap_cycle.gif) -->
 
 <!-- ### No BTR Win
 
@@ -117,7 +117,7 @@ Usage:
 - use `8` for toggling the leaderboard
 - use `9` for toggling the minimap
 
-![Clean](https://parsehex.github.io/airmash-extensions/resources/clean.png) -->
+![Clean](./resources/clean.png) -->
 
 ## Other stuff
 
