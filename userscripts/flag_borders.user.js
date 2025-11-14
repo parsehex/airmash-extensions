@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AIRMASH: Flag Borders
 // @namespace    http://parsehex.github.io/
-// @version      1.0
+// @version      1.1
 // @description  Show borders around your window whenever a flag is being carried.
 // @author       parsehex, original: fabiospampinato
 // @match        https://airmash.rocks/
@@ -11,6 +11,14 @@
 // ==/UserScript==
 (function () {
 	/* INIT */
+
+	// reset on new game
+	const Games_Prep = Games.prep;
+	Games.prep = () => {
+		toggleBlue(false);
+		toggleRed(false);
+		Games_Prep();
+	};
 
 	function init() {
 		initHTML();
