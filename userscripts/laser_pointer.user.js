@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AIRMASH: Laser Pointer
 // @namespace    http://parsehex.github.io/
-// @version      1.0
+// @version      1.1
 // @description  Enable laser pointer on AIRMASH by pressing P
 // @author       parsehex, original: Fabio Spampinato
 // @match        https://airmash.rocks/
@@ -88,6 +88,10 @@
 	function onKeydown(event) {
 		if (event.key === 'p') {
 			//TODO: This should be customizable
+
+			// exit if Chat is active
+			const chatinput = document.getElementById('chatinput');
+			if (chatinput && chatinput === document.activeElement) return;
 
 			event.stopImmediatePropagation();
 
